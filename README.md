@@ -1,3 +1,3 @@
 # Core-CS
 
-- :point_right: [ Database ](Database/TOC.md)
+- :point_right: [ Database ](Database/README.md)
