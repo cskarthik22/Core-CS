@@ -1,1 +1,1 @@
-![CAP-Theorem](CAP-Theorem.png)
+![CAP-Theorem](./CAP-Theorem.png)
